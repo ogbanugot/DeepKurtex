@@ -1,0 +1,241 @@
+C:\Users\Ebun\Documents\Visual Studio 2015\Projects\AILab\AILab\bin\Debug\AI.dll
+C:\Users\Ebun\Documents\Visual Studio 2015\Projects\AILab\AILab\bin\Debug\AI.pdb
+C:\Users\Ebun\Documents\Visual Studio 2015\Projects\AILab\AILab\bin\Debug\Benchmarks.dll
+C:\Users\Ebun\Documents\Visual Studio 2015\Projects\AILab\AILab\bin\Debug\Foundation.dll
+C:\Users\Ebun\Documents\Visual Studio 2015\Projects\AILab\AILab\bin\Debug\Math.dll
+C:\Users\Ebun\Documents\Visual Studio 2015\Projects\AILab\AILab\bin\Debug\MathNet.Numerics.dll
+C:\Users\Ebun\Documents\Visual Studio 2015\Projects\AILab\AILab\bin\Debug\Reports.dll
+C:\Users\Ebun\Documents\Visual Studio 2015\Projects\AILab\AILab\bin\Debug\Accord.Math.dll
+C:\Users\Ebun\Documents\Visual Studio 2015\Projects\AILab\AILab\bin\Debug\Accord.dll
+C:\Users\Ebun\Documents\Visual Studio 2015\Projects\AILab\AILab\bin\Debug\MathNet.Numerics.xml
+C:\Users\Ebun\Documents\Visual Studio 2015\Projects\AILab\AILab\bin\Debug\Accord.Math.pdb
+C:\Users\Ebun\Documents\Visual Studio 2015\Projects\AILab\AILab\bin\Debug\Accord.Math.xml
+C:\Users\Ebun\Documents\Visual Studio 2015\Projects\AILab\AILab\bin\Debug\Accord.pdb
+C:\Users\Ebun\Documents\Visual Studio 2015\Projects\AILab\AILab\bin\Debug\Accord.xml
+C:\Users\Ebun\Documents\Visual Studio 2015\Projects\AILab\AILab\bin\Debug\Interop.TDCLib.dll
+C:\Users\Ebun\Documents\Visual Studio 2015\Projects\AILab\AILab\bin\Debug\AxInterop.TDCLib.dll
+C:\Users\Ebun\Documents\Visual Studio 2015\Projects\AILab\AILab\obj\Debug\AI.csprojResolveAssemblyReference.cache
+C:\Users\Ebun\Documents\Visual Studio 2015\Projects\AILab\AILab\obj\Debug\Interop.TDCLib.dll
+C:\Users\Ebun\Documents\Visual Studio 2015\Projects\AILab\AILab\obj\Debug\AxInterop.TDCLib.dll
+C:\Users\Ebun\Documents\Visual Studio 2015\Projects\AILab\AILab\obj\Debug\AI.csproj.ResolveComReference.cache
+C:\Users\Ebun\Documents\Visual Studio 2015\Projects\AILab\AILab\obj\Debug\AI.Graphics.Frame.View.resources
+C:\Users\Ebun\Documents\Visual Studio 2015\Projects\AILab\AILab\obj\Debug\AI.Search.Adversarial.Games.TicTacToe.frmBoard.resources
+C:\Users\Ebun\Documents\Visual Studio 2015\Projects\AILab\AILab\obj\Debug\AI.csproj.GenerateResource.Cache
+C:\Users\Ebun\Documents\Visual Studio 2015\Projects\AILab\AILab\obj\Debug\AI.dll
+C:\Users\Ebun\Documents\Visual Studio 2015\Projects\AILab\AILab\obj\Debug\AI.pdb
+C:\Users\Ebun Fasina\Documents\Visual Studio 2019\AILab\AILab\bin\Debug\AI.dll
+C:\Users\Ebun Fasina\Documents\Visual Studio 2019\AILab\AILab\bin\Debug\AI.pdb
+C:\Users\Ebun Fasina\Documents\Visual Studio 2019\AILab\AILab\bin\Debug\Benchmarks.dll
+C:\Users\Ebun Fasina\Documents\Visual Studio 2019\AILab\AILab\bin\Debug\Foundation.dll
+C:\Users\Ebun Fasina\Documents\Visual Studio 2019\AILab\AILab\bin\Debug\Math.dll
+C:\Users\Ebun Fasina\Documents\Visual Studio 2019\AILab\AILab\bin\Debug\MathNet.Numerics.dll
+C:\Users\Ebun Fasina\Documents\Visual Studio 2019\AILab\AILab\bin\Debug\Reports.dll
+C:\Users\Ebun Fasina\Documents\Visual Studio 2019\AILab\AILab\bin\Debug\MathNet.Numerics.xml
+C:\Users\Ebun Fasina\Documents\Visual Studio 2019\AILab\AILab\bin\Debug\Interop.TDCLib.dll
+C:\Users\Ebun Fasina\Documents\Visual Studio 2019\AILab\AILab\bin\Debug\AxInterop.TDCLib.dll
+C:\Users\Ebun Fasina\Documents\Visual Studio 2019\AILab\AILab\obj\Debug\Interop.TDCLib.dll
+C:\Users\Ebun Fasina\Documents\Visual Studio 2019\AILab\AILab\obj\Debug\AxInterop.TDCLib.dll
+C:\Users\Ebun Fasina\Documents\Visual Studio 2019\AILab\AILab\obj\Debug\AI.csproj.ResolveComReference.cache
+C:\Users\Ebun Fasina\Documents\Visual Studio 2019\AILab\AILab\obj\Debug\AI.Graphics.Frame.View.resources
+C:\Users\Ebun Fasina\Documents\Visual Studio 2019\AILab\AILab\obj\Debug\AI.Search.Adversarial.Games.TicTacToe.frmBoard.resources
+C:\Users\Ebun Fasina\Documents\Visual Studio 2019\AILab\AILab\obj\Debug\AI.csproj.GenerateResource.cache
+C:\Users\Ebun Fasina\Documents\Visual Studio 2019\AILab\AILab\obj\Debug\AI.csproj.CopyComplete
+C:\Users\Ebun Fasina\Documents\Visual Studio 2019\AILab\AILab\obj\Debug\AI.dll
+C:\Users\Ebun Fasina\Documents\Visual Studio 2019\AILab\AILab\obj\Debug\AI.pdb
+C:\Users\Ebun Fasina\Documents\Visual Studio 2019\AILab\AILab\obj\Debug\AI.csprojAssemblyReference.cache
+C:\Users\Ugot\Documents\AILab\AILab\bin\Debug\AI.dll
+C:\Users\Ugot\Documents\AILab\AILab\bin\Debug\AI.pdb
+C:\Users\Ugot\Documents\AILab\AILab\bin\Debug\Benchmarks.dll
+C:\Users\Ugot\Documents\AILab\AILab\bin\Debug\Foundation.dll
+C:\Users\Ugot\Documents\AILab\AILab\bin\Debug\Math.dll
+C:\Users\Ugot\Documents\AILab\AILab\bin\Debug\MathNet.Numerics.dll
+C:\Users\Ugot\Documents\AILab\AILab\bin\Debug\Reports.dll
+C:\Users\Ugot\Documents\AILab\AILab\bin\Debug\MathNet.Numerics.xml
+C:\Users\Ugot\Documents\AILab\AILab\bin\Debug\Interop.TDCLib.dll
+C:\Users\Ugot\Documents\AILab\AILab\bin\Debug\AxInterop.TDCLib.dll
+C:\Users\Ugot\Documents\AILab\AILab\obj\Debug\AI.csprojAssemblyReference.cache
+C:\Users\Ugot\Documents\AILab\AILab\obj\Debug\Interop.TDCLib.dll
+C:\Users\Ugot\Documents\AILab\AILab\obj\Debug\AxInterop.TDCLib.dll
+C:\Users\Ugot\Documents\AILab\AILab\obj\Debug\AI.csproj.ResolveComReference.cache
+C:\Users\Ugot\Documents\AILab\AILab\obj\Debug\AI.Graphics.Frame.View.resources
+C:\Users\Ugot\Documents\AILab\AILab\obj\Debug\AI.Search.Adversarial.Games.TicTacToe.frmBoard.resources
+C:\Users\Ugot\Documents\AILab\AILab\obj\Debug\AI.csproj.GenerateResource.cache
+C:\Users\Ugot\Documents\AILab\AILab\obj\Debug\AI.csproj.CoreCompileInputs.cache
+C:\Users\Ugot\Documents\AILab\AILab\obj\Debug\AI.csproj.CopyComplete
+C:\Users\Ugot\Documents\AILab\AILab\obj\Debug\AI.dll
+C:\Users\Ugot\Documents\AILab\AILab\obj\Debug\AI.pdb
+C:\Users\Olusegun Sodeinde\Documents\aaogban\AILab\AILab\bin\Debug\AI.dll
+C:\Users\Olusegun Sodeinde\Documents\aaogban\AILab\AILab\bin\Debug\AI.pdb
+C:\Users\Olusegun Sodeinde\Documents\aaogban\AILab\AILab\bin\Debug\Benchmarks.dll
+C:\Users\Olusegun Sodeinde\Documents\aaogban\AILab\AILab\bin\Debug\Foundation.dll
+C:\Users\Olusegun Sodeinde\Documents\aaogban\AILab\AILab\bin\Debug\Math.dll
+C:\Users\Olusegun Sodeinde\Documents\aaogban\AILab\AILab\bin\Debug\MathNet.Numerics.dll
+C:\Users\Olusegun Sodeinde\Documents\aaogban\AILab\AILab\bin\Debug\Reports.dll
+C:\Users\Olusegun Sodeinde\Documents\aaogban\AILab\AILab\bin\Debug\MathNet.Numerics.xml
+C:\Users\Olusegun Sodeinde\Documents\aaogban\AILab\AILab\bin\Debug\Interop.TDCLib.dll
+C:\Users\Olusegun Sodeinde\Documents\aaogban\AILab\AILab\bin\Debug\AxInterop.TDCLib.dll
+C:\Users\Olusegun Sodeinde\Documents\aaogban\AILab\AILab\obj\Debug\AI.csprojAssemblyReference.cache
+C:\Users\Olusegun Sodeinde\Documents\aaogban\AILab\AILab\obj\Debug\Interop.TDCLib.dll
+C:\Users\Olusegun Sodeinde\Documents\aaogban\AILab\AILab\obj\Debug\AxInterop.TDCLib.dll
+C:\Users\Olusegun Sodeinde\Documents\aaogban\AILab\AILab\obj\Debug\AI.csproj.ResolveComReference.cache
+C:\Users\Olusegun Sodeinde\Documents\aaogban\AILab\AILab\obj\Debug\AI.Graphics.Frame.View.resources
+C:\Users\Olusegun Sodeinde\Documents\aaogban\AILab\AILab\obj\Debug\AI.Search.Adversarial.Games.TicTacToe.frmBoard.resources
+C:\Users\Olusegun Sodeinde\Documents\aaogban\AILab\AILab\obj\Debug\AI.csproj.GenerateResource.cache
+C:\Users\Olusegun Sodeinde\Documents\aaogban\AILab\AILab\obj\Debug\AI.csproj.CopyComplete
+C:\Users\Olusegun Sodeinde\Documents\aaogban\AILab\AILab\obj\Debug\AI.dll
+C:\Users\Olusegun Sodeinde\Documents\aaogban\AILab\AILab\obj\Debug\AI.pdb
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\AI.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\AI.pdb
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\Benchmarks.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\Foundation.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\Math.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\MathNet.Numerics.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\Reports.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\MathNet.Numerics.xml
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\Interop.TDCLib.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\AxInterop.TDCLib.dll
+C:\Users\ogban\Documents\AILab\AILab\obj\Debug\AI.csprojAssemblyReference.cache
+C:\Users\ogban\Documents\AILab\AILab\obj\Debug\Interop.TDCLib.dll
+C:\Users\ogban\Documents\AILab\AILab\obj\Debug\AxInterop.TDCLib.dll
+C:\Users\ogban\Documents\AILab\AILab\obj\Debug\AI.csproj.ResolveComReference.cache
+C:\Users\ogban\Documents\AILab\AILab\obj\Debug\AI.Graphics.Frame.View.resources
+C:\Users\ogban\Documents\AILab\AILab\obj\Debug\AI.Search.Adversarial.Games.TicTacToe.frmBoard.resources
+C:\Users\ogban\Documents\AILab\AILab\obj\Debug\AI.csproj.GenerateResource.cache
+C:\Users\ogban\Documents\AILab\AILab\obj\Debug\AI.csproj.CopyComplete
+C:\Users\ogban\Documents\AILab\AILab\obj\Debug\AI.dll
+C:\Users\ogban\Documents\AILab\AILab\obj\Debug\AI.pdb
+C:\Users\ogban\Documents\AILab\AILab\obj\Debug\AI.csproj.CoreCompileInputs.cache
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\x64\concrt140.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\x64\cvextern.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\x64\msvcp140.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\x64\msvcp140_1.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\x64\msvcp140_2.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\x64\msvcp140_codecvt_ids.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\x64\opencv_videoio_ffmpeg420_64.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\x64\vcruntime140.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\x64\vcruntime140_1.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\x86\concrt140.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\x86\cvextern.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\x86\msvcp140.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\x86\msvcp140_1.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\x86\msvcp140_2.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\x86\msvcp140_codecvt_ids.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\x86\opencv_videoio_ffmpeg420.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\x86\vcruntime140.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\netstandard.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.AppContext.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Collections.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Collections.Specialized.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.ComponentModel.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Console.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Data.Common.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Globalization.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.IO.Compression.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.IO.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.IO.FileSystem.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.IO.Pipes.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Linq.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Linq.Expressions.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Linq.Parallel.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Linq.Queryable.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Net.Http.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Net.NameResolution.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Net.Ping.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Net.Primitives.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Net.Requests.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Net.Security.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Net.Sockets.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Net.WebSockets.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.ObjectModel.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Reflection.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Resources.Reader.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Resources.Writer.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Runtime.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Runtime.Handles.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Security.Claims.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Security.Principal.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Security.SecureString.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Text.Encoding.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Threading.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Threading.Tasks.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Threading.Thread.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Threading.Timer.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.ValueTuple.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Xml.XDocument.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Xml.XPath.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\Emgu.CV.World.NetStandard.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\ZedGraph.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\Emgu.CV.World.NetStandard.xml
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\ZedGraph.xml
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ogban\Documents\AILab\AILab\bin\Debug\zh-tw\ZedGraph.resources.dll

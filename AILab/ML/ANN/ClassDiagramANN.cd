@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AI.ML.ANN.Model" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABgAAAAIAAAAAAEAAEYAAAAGAAAABAAAAAgAAAQAAI=</HashCode>
+      <FileName>ML\ANN\Model.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI.ML.ANN.Neuron" Collapsed="true">
+    <Position X="4.5" Y="2.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAgBAAAIEAgBIAAAACAAAAEAAAAAEAAAIhAA=</HashCode>
+      <FileName>ML\ANN\Neuron.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI.ML.ANN.Synapse" Collapsed="true">
+    <Position X="0.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAIACAAIAAAAAAAAAAAgIEAAAAAIAAA=</HashCode>
+      <FileName>ML\ANN\Synapse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI.ML.ANN.Activation.Linear">
+    <Position X="3.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ML\ANN\Activation\Linear.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI.ML.ANN.Neurons.Perceptron.Hidden">
+    <Position X="3.25" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ML\ANN\Neurons\Perceptron\Hidden.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI.ML.ANN.Neurons.Perceptron.Output">
+    <Position X="6.25" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ML\ANN\Neurons\Perceptron\Output.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI.ML.ANN.Function" Collapsed="true">
+    <Position X="16.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAEAAACAJAAAAAEAAAAAAAAAAIAAAAgAA=</HashCode>
+      <FileName>ML\ANN\Function.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI.ML.ANN.Activation.Avgpool" Collapsed="true">
+    <Position X="9.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ML\ANN\Activation\Avgpool.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI.ML.ANN.Activation.Logistic" Collapsed="true">
+    <Position X="12" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ML\ANN\Activation\Logistic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI.ML.ANN.Activation.Maxpool" Collapsed="true">
+    <Position X="14.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ML\ANN\Activation\Maxpool.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI.ML.ANN.Activation.Minpool" Collapsed="true">
+    <Position X="16.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ML\ANN\Activation\Minpool.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI.ML.ANN.Activation.ReLU" Collapsed="true">
+    <Position X="18.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ML\ANN\Activation\ReLU.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI.ML.ANN.Activation.Tanh" Collapsed="true">
+    <Position X="21" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAJAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ML\ANN\Activation\Tanh.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI.ML.ANN.Activation.Signum" Collapsed="true">
+    <Position X="23.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ML\ANN\Activation\Signum.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

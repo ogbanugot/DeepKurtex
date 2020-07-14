@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AI.ML.CNN.Filter" Collapsed="true">
+    <Position X="3.75" Y="8.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAgAAAAAAIiBAADAAAAAAEAAAABAAAAAAAAA=</HashCode>
+      <FileName>ML\CNN\Filter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI.ML.CNN.Kernel" Collapsed="true">
+    <Position X="7.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAgEAEEAAAABAABAAAACBAQAAAAMAAAgDAAA=</HashCode>
+      <FileName>ML\CNN\Kernel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI.ML.CNN.Layer" Collapsed="true">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAIAAAACAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ML\CNN\Layer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI.ML.CNN.Model" Collapsed="true">
+    <Position X="0.5" Y="8.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="AI.ML.CNN.Model.Unit" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ML\CNN\Model.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AgBAAAAAAAAgAAAACABIAAAAEAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>ML\CNN\Model.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI.ML.CNN.fMap">
+    <Position X="11" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABYAEAABAAAAgAAEAABAAAAAAAAFAAgA=</HashCode>
+      <FileName>ML\CNN\fMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI.ML.CNN.Image" Collapsed="true">
+    <Position X="4" Y="10.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAQAEAAAAhEAAAAQAiAAAAAAAIAAAhAAMA=</HashCode>
+      <FileName>ML\CNN\Image.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI.ML.CNN.Loss" Collapsed="true">
+    <Position X="7.5" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ML\CNN\Loss.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI.ML.CNN.Trainer" Collapsed="true">
+    <Position X="2.5" Y="18.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AhAAAAAAAAAIAAAAAABACAAAAAAAAAAAAAgAAgAYAAI=</HashCode>
+      <FileName>ML\CNN\Trainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI.ML.CNN.Trainers.ADAM">
+    <Position X="4" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ogAAIAAAAAChAAgAIABACAAAIAAAAAAQAAAADCIQAEA=</HashCode>
+      <FileName>ML\CNN\Trainers\ADAM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI.ML.CNN.Trainers.DeltaRule">
+    <Position X="1.75" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ogAAIAAAAAAgEAgAIABACAAAIAAAAAAQAAAAACIQCAA=</HashCode>
+      <FileName>ML\CNN\Trainers\DeltaRule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI.ML.CNN.Layers.Concatenation" Collapsed="true">
+    <Position X="6" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="AI.ML.CNN.Layers.Concatenation.Filter" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ML\CNN\Layers\Concatenation.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ML\CNN\Layers\Concatenation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI.ML.CNN.Layers.Convolution" Collapsed="true">
+    <Position X="1.5" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="AI.ML.CNN.Layers.Convolution.Filter" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ML\CNN\Layers\Convolution.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="AI.ML.CNN.Layers.Convolution.Kernel" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ML\CNN\Layers\Convolution.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAFAAAAAAAAA=</HashCode>
+      <FileName>ML\CNN\Layers\Convolution.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI.ML.CNN.Layers.Pooling" Collapsed="true">
+    <Position X="3.75" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="AI.ML.CNN.Layers.Pooling.Filter" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ML\CNN\Layers\Pooling.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ML\CNN\Layers\Pooling.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI.ML.CNN.Layers.Connected" Collapsed="true">
+    <Position X="8" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAgAAAAIAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ML\CNN\Layers\Connected.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI.Core.fData">
+    <Position X="1.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAEAAAABAEAAAAiCAgAIAAABAAAAAQAAAAAAA=</HashCode>
+      <FileName>Core\fData.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AI.Core.fDataSet">
+    <Position X="5.75" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAABAAAAAAAAAAAQgEAAAAAAAAAIAAAAAAgA=</HashCode>
+      <FileName>Core\fDataSet.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AI.Core.UByteLoader">
+    <Position X="3.75" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAABAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\UByteLoader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

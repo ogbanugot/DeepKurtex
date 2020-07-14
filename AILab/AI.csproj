@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A9624501-5512-4E21-9234-F1CBF98E118A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AI</RootNamespace>
+    <AssemblyName>AI</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Benchmarks">
+      <HintPath>..\packages\SiLibDLLs\Benchmarks.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.UI, Version=4.2.0.3662, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
+      <HintPath>..\packages\Emgu.CV.runtime.windows.4.2.0.3662\lib\net461\Emgu.CV.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.World.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
+      <HintPath>..\packages\Emgu.CV.4.2.0.3662\lib\netstandard2.0\Emgu.CV.World.NetStandard.dll</HintPath>
+    </Reference>
+    <Reference Include="Foundation">
+      <HintPath>..\packages\SiLibDLLs\Foundation.dll</HintPath>
+    </Reference>
+    <Reference Include="Math, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\SiLibDLLs\Math.dll</HintPath>
+    </Reference>
+    <Reference Include="MathNet.Numerics, Version=4.8.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MathNet.Numerics.4.8.1\lib\net40\MathNet.Numerics.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Reports">
+      <HintPath>..\packages\SiLibDLLs\Reports.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ZedGraph, Version=5.1.7.430, Culture=neutral, PublicKeyToken=02a83cbd123fcd60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZedGraph.5.1.7\lib\net35-Client\ZedGraph.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Agents\Reactive\VacuumCleaner\Dirt.cs" />
+    <Compile Include="Core\Actuator.cs" />
+    <Compile Include="Core\Agent.cs" />
+    <Compile Include="Core\Algorithms\Interactive.cs" />
+    <Compile Include="Core\Algorithms\Iterative.cs" />
+    <Compile Include="Core\Algorithms\Recursive.cs" />
+    <Compile Include="Core\Collection.cs" />
+    <Compile Include="Core\Collections\Set.cs" />
+    <Compile Include="Core\Domain.cs" />
+    <Compile Include="Core\Enums.cs" />
+    <Compile Include="Core\Environment.cs" />
+    <Compile Include="Agents\Reactive\VacuumCleaner\Action.cs" />
+    <Compile Include="Agents\Reactive\VacuumCleaner\Agent.cs" />
+    <Compile Include="Agents\Reactive\VacuumCleaner\World.cs" />
+    <Compile Include="Core\ModelSerializer.cs" />
+    <Compile Include="Core\Problem.cs" />
+    <Compile Include="Core\Sensor.cs" />
+    <Compile Include="Core\Action.cs" />
+    <Compile Include="Core\Algorithm.cs" />
+    <Compile Include="Core\Collections\Graph.cs" />
+    <Compile Include="Core\ITreeNode.cs" />
+    <Compile Include="Core\INode.cs" />
+    <Compile Include="Core\Percept.cs" />
+    <Compile Include="Core\Solution.cs" />
+    <Compile Include="Core\TreeNode.cs" />
+    <Compile Include="Core\Collections\Queue.cs" />
+    <Compile Include="Core\Collections\Stack.cs" />
+    <Compile Include="Core\Collections\Tree.cs" />
+    <Compile Include="Core\Node.cs" />
+    <Compile Include="Core\fDataSet.cs" />
+    <Compile Include="Core\fData.cs" />
+    <Compile Include="Graphics\Frame\Control.cs" />
+    <Compile Include="Core\UByteLoader.cs" />
+    <Compile Include="Graphics\Frame\View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Graphics\Frame\View.Designer.cs">
+      <DependentUpon>View.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Graphics\Frame\Model.cs" />
+    <Compile Include="ML\ANN\Activation\Linear.cs" />
+    <Compile Include="ML\ANN\Activation\Tanh.cs" />
+    <Compile Include="ML\ANN\Activation\Logistic.cs" />
+    <Compile Include="ML\ANN\Activation\Signum.cs" />
+    <Compile Include="ML\ANN\DataSet.cs" />
+    <Compile Include="ML\ANN\Enums.cs" />
+    <Compile Include="ML\ANN\Function.cs" />
+    <Compile Include="ML\ANN\Global.cs" />
+    <Compile Include="ML\ANN\Model.cs" />
+    <Compile Include="ML\ANN\Models\Acyclic.cs" />
+    <Compile Include="ML\ANN\Models\Probabilistic.cs" />
+    <Compile Include="ML\ANN\Models\Recurrent.cs" />
+    <Compile Include="ML\ANN\Neuron.cs" />
+    <Compile Include="ML\ANN\Neurons\Perceptron\Hidden.cs" />
+    <Compile Include="ML\ANN\Neurons\Perceptron\Output.cs" />
+    <Compile Include="ML\ANN\Depreciated\Node.cs" />
+    <Compile Include="ML\ANN\Synapse.cs" />
+    <Compile Include="ML\ANN\Trainer.cs" />
+    <Compile Include="ML\ANN\Trainers\DeltaRule.cs" />
+    <Compile Include="ML\ANN\Activation\Avgpool.cs" />
+    <Compile Include="ML\ANN\Activation\Maxpool.cs" />
+    <Compile Include="ML\ANN\Activation\Minpool.cs" />
+    <Compile Include="ML\ANN\Activation\ReLU.cs" />
+    <Compile Include="ML\CNN\Algorithm.cs" />
+    <Compile Include="ML\CNN\Kernels\Avgpool.cs" />
+    <Compile Include="ML\CNN\Layers\Convolution.cs" />
+    <Compile Include="ML\CNN\Filter.cs" />
+    <Compile Include="ML\CNN\Kernel.cs" />
+    <Compile Include="ML\CNN\Kernels\Maxpool.cs" />
+    <Compile Include="ML\CNN\Kernels\Minpool.cs" />
+    <Compile Include="ML\CNN\Layers\Pooling.cs" />
+    <Compile Include="ML\CNN\Layer.cs" />
+    <Compile Include="ML\CNN\Layers\Concatenation.cs" />
+    <Compile Include="ML\CNN\Layers\Connected.cs" />
+    <Compile Include="ML\CNN\Images\Color.cs" />
+    <Compile Include="ML\CNN\Images\Gray.cs" />
+    <Compile Include="ML\CNN\fMap.cs" />
+    <Compile Include="ML\CNN\Image.cs" />
+    <Compile Include="ML\CNN\Loss.cs" />
+    <Compile Include="ML\CNN\Lossfunc\CategoricalCrossEntropy.cs" />
+    <Compile Include="ML\CNN\Lossfunc\MeanSquaredError.cs" />
+    <Compile Include="ML\CNN\Matrix.cs" />
+    <Compile Include="ML\CNN\Model.cs" />
+    <Compile Include="ML\CNN\Trainer.cs" />
+    <Compile Include="ML\CNN\Trainers\ADAM.cs" />
+    <Compile Include="ML\CNN\Trainers\DeltaRule.cs" />
+    <Compile Include="ML\CNN\Trainers\Verbose.cs" />
+    <Compile Include="ML\LDT\Algorithm.cs" />
+    <Compile Include="ML\LDT\Node.cs" />
+    <Compile Include="Nodes\ICanGenerateChild.cs" />
+    <Compile Include="Nodes\NPuzzle.cs" />
+    <Compile Include="Nodes\Path.cs" />
+    <Compile Include="Nodes\TicTacToe.cs" />
+    <Compile Include="Nodes\Tour.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Search\Adversarial\Board.cs" />
+    <Compile Include="Search\Adversarial\Environment.cs" />
+    <Compile Include="Search\Adversarial\Games\TicTacToe\Action.cs" />
+    <Compile Include="Search\Adversarial\Games\TicTacToe\Actuator.cs" />
+    <Compile Include="Search\Adversarial\Games\TicTacToe\Board.cs" />
+    <Compile Include="Search\Adversarial\Games\TicTacToe\frmBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Search\Adversarial\Games\TicTacToe\frmBoard.Designer.cs">
+      <DependentUpon>frmBoard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Search\Adversarial\Games\TicTacToe\Game.cs" />
+    <Compile Include="Search\Adversarial\Games\TicTacToe\Sensor.cs" />
+    <Compile Include="Search\Adversarial\Minimax\Basic.cs" />
+    <Compile Include="Search\Adversarial\Minimax\AlphaBeta.cs" />
+    <Compile Include="Search\Adversarial\Minimax\Heuristic.cs" />
+    <Compile Include="Search\Adversarial\Games\TicTacToe\Player.cs" />
+    <Compile Include="Search\Ensembles\Algorithm.cs" />
+    <Compile Include="Search\Ensembles\Global.cs" />
+    <Compile Include="Search\Ensembles\Subnode.cs" />
+    <Compile Include="Search\Ensembles\Subnodes\Buzzer.cs" />
+    <Compile Include="Search\Ensembles\Subnodes\Crawler.cs" />
+    <Compile Include="Search\Ensembles\Environment.cs" />
+    <Compile Include="Search\Ensembles\Subnodes\Forager.cs" />
+    <Compile Include="Search\Ensembles\Subnodes\Hopper.cs" />
+    <Compile Include="Search\Ensembles\Solution.cs" />
+    <Compile Include="Search\Evolutionary\Algorithm.cs" />
+    <Compile Include="Search\GraphSearch.cs" />
+    <Compile Include="Search\Informed\ASS\AStar.cs" />
+    <Compile Include="Search\Informed\BFS\BestFirst.cs" />
+    <Compile Include="Search\Informed\CSP\AC3.cs" />
+    <Compile Include="Search\Informed\CSP\Backtracking.cs" />
+    <Compile Include="Search\Informed\GBF\GreedyBestFirst.cs" />
+    <Compile Include="Nodes\NQBoard.cs" />
+    <Compile Include="Search\Informed\IHeuristics.cs" />
+    <Compile Include="Search\Informed\RBF\RecursiveBestFirst.cs" />
+    <Compile Include="Search\Informed\SA\SimulatedAnnealing.cs" />
+    <Compile Include="Search\Informed\TS\TabuSearch.cs" />
+    <Compile Include="Search\TreeSearch.cs" />
+    <Compile Include="Search\Uninformed\Algorithm.cs" />
+    <Compile Include="Search\Uninformed\BFS\BreadthFirst.cs" />
+    <Compile Include="Search\Uninformed\BDS\BiDirectional.cs" />
+    <Compile Include="Search\Uninformed\DFS\DepthFirst.cs" />
+    <Compile Include="Search\Uninformed\DLS\DepthLimited.cs" />
+    <Compile Include="Search\Uninformed\IDF\IterativeDeepeningDepthFirst.cs" />
+    <Compile Include="Search\Uninformed\UCS\UniformCost.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Agents\Delibrative\ByGoal\" />
+    <Folder Include="Agents\Delibrative\ByModel\" />
+    <Folder Include="Agents\Delibrative\ByUtility\" />
+    <Folder Include="ML\CNN\Depreciated\" />
+    <Folder Include="ML\LDT\CART\" />
+    <Folder Include="ML\LDT\ID3\Variants\" />
+    <Folder Include="Search\Adversarial\Statistical\" />
+    <Folder Include="Search\Evolutionary\EP\" />
+    <Folder Include="Search\Evolutionary\ES\" />
+    <Folder Include="Search\Evolutionary\GA\" />
+    <Folder Include="Search\Evolutionary\GP\" />
+    <Folder Include="Search\Swarms\ACO\" />
+    <Folder Include="Search\Swarms\PSO\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1CNN.cd" />
+    <None Include="ML\ANN\ClassDiagramANN.cd" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Graphics\Frame\View.resx">
+      <DependentUpon>View.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Search\Adversarial\Games\TicTacToe\frmBoard.resx">
+      <DependentUpon>frmBoard.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxTDCLib">
+      <Guid>{333C7BC1-460F-11D0-BC04-0080C7055A83}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="TDCLib">
+      <Guid>{333C7BC1-460F-11D0-BC04-0080C7055A83}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="License-LGPL.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\Emgu.CV.runtime.windows.4.2.0.3662\build\Emgu.CV.runtime.windows.targets" Condition="Exists('..\packages\Emgu.CV.runtime.windows.4.2.0.3662\build\Emgu.CV.runtime.windows.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Emgu.CV.runtime.windows.4.2.0.3662\build\Emgu.CV.runtime.windows.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Emgu.CV.runtime.windows.4.2.0.3662\build\Emgu.CV.runtime.windows.targets'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
