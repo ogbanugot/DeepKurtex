@@ -1,4 +1,4 @@
-<h1 align="left">Lisa: A Framework for the Design Space Exploration of Deep Learning Neural Network Architectures</h1>
+<h1 align="left">DeepKurtex: A Library for the Design Space Exploration of Deep Learning Neural Network Architectures</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000" />
 </p>
@@ -22,6 +22,6 @@ Configure with configuration string.
 
 Check the test files in Tests/ for many use case examples. 
 
-The framework is a work in progress, more classes and optimization to come. 
+The library is a work in progress, more classes and optimization to come. 
 
 Send a pull request if you would like to collaborate! 
